@@ -1,6 +1,6 @@
 # ATProto Sandbox
 
-This repo was initialized as "CUP-ATProto." The vision is to create a social check-in application for coffee lovers, built on top of the [ATProtocol](https://atproto.com/)--an open, decentralized network for building social applications. 
+This repo was initialized as "CUP-ATProto." The vision is to create an MVP social check-in application for coffee lovers, built on top of the [Authenticated Transfer Protocol](https://atproto.com/)--an open, decentralized network for building social applications. 
 
 Use-case, format, and experience will be similar to  [Untappd](https://untappd.com/), but will focus on third-wave coffee rather than on craft beer.
 
