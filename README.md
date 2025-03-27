@@ -2,11 +2,11 @@
 
 This repo was initialized as "CUP-ATProto." The vision is to create a social check-in application for coffee lovers, built on top of the [ATProtocol](https://atproto.com/)--an open, decentralized network for building social applications. 
 
-Use-case, format, and experience will be similar to  [Untappd](https://untappd.com/), but will focus on third-wave coffee rather than on beer.
+Use-case, format, and experience will be similar to  [Untappd](https://untappd.com/), but will focus on third-wave coffee rather than on craft beer.
 
 At this early stage, this project serves as a sandbox environment as I get up to speed on authenticating with ATProto.
 
-I am using the example app found [here](https://atproto.com/guides/applications) as a guide.
+I am using the example app found [in the ATProto Docs](https://atproto.com/guides/applications) as a guide.
 
 ## First Steps
 First steps include:
